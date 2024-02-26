@@ -1,0 +1,1 @@
+export { default as AppRegisterForm } from "./app-register-form.module";
